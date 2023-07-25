@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicaputriazz
-- 👀 I’m interested in Python and Design
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming and Designing
+- 🌱 I’m currently learning GO
 - 💞️ I’m really like reading book and learning English
 
 <!---
